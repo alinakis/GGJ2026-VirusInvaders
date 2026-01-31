@@ -1,17 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_intro_button_back",
+  "%Name":"obj_highscore",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_intro_button_back",
+  "name":"obj_highscore",
   "overriddenProperties":[],
   "parent":{
-    "name":"Instructions_screen",
-    "path":"folders/Objects/Instructions_screen.yy",
+    "name":"Death_Screen",
+    "path":"folders/Objects/Death_Screen.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -17,3 +17,10 @@ if (keyboard_check(vk_space) && fire_timer <= 0 && global.injections > 0)
 	global.injections --;
     fire_timer = fire_delay;
 }
+
+if (global.masks > 0) {
+	image_index = 0;
+}
+else {
+	image_index = 1;
+}

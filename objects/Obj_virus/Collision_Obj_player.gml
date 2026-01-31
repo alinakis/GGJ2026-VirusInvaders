@@ -9,5 +9,5 @@ else if (global.virus_load < 4) {
 	
 }
 else {
-	instance_destroy(other);
+	room_goto(rm_death);
 }
