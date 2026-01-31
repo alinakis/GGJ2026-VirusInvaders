@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_virus",
+  "%Name":"Obj_mask",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_virus",
+  "name":"Obj_mask",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Game_screen/Enemies.yy",
+    "name":"Player",
+    "path":"folders/Objects/Game_screen/Player.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,7 +31,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_mask",
+    "path":"sprites/spr_mask/spr_mask.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
