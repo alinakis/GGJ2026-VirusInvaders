@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
-    "path":"folders/Objects/UI.yy",
+    "path":"folders/Objects/Game_screen/UI.yy",
   },
   "parentObjectId":null,
   "persistent":false,
