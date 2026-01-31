@@ -14,3 +14,6 @@ draw_text_ext(200, 320, "     Injections\nYou can collect up to 4 injections. Th
 draw_text_ext(200, 450, "     Masks\nYou can collect up to 4 Masks. Those are your defence. You can not get a virus load as long as you have a mask.", 25, 500);
 draw_text_ext(200, 610, "     Pills\nEach time you collect a pill, you reduce one virus load. You can not store pills.", 25, 500);
 draw_text_ext(200, 735, "     You\nWithout mask, and with mask. Remember masks act as shields.", 25, 500);
+draw_text_ext(200, 830, "     Virus Load Bar\nGet 5 segments and you die. Eat a pill to reduce load. Wear a mask to be shielded.", 25, 500);
+draw_text_ext(200, 950, "     Injections Bar\nGet 5 segments and you die. Eat a pill to reduce load. Wear a mask to be shielded.", 25, 500);
+draw_text_ext(200, 1070, "    Masks Bar\nGet 5 segments and you die. Eat a pill to reduce load. Wear a mask to be shielded.", 25, 500);
