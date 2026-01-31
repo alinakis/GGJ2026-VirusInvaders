@@ -1,2 +1,9 @@
 // Basic behavior – player dies
-instance_destroy(other);
+if (global.virus_load < 4) {
+	instance_destroy();
+	global.virus_load ++
+	
+}
+else {
+	instance_destroy(other);
+}

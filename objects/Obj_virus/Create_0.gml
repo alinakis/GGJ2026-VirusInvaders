@@ -1,1 +1,2 @@
-fall_speed = random_range(2, 4);
+fall_speed = global.virus_speed; // random variation if desired
+
