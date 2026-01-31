@@ -79,6 +79,7 @@
     {"id":{"name":"spr_virus_2","path":"sprites/spr_virus_2/spr_virus_2.yy",},},
     {"id":{"name":"spr_virus_3","path":"sprites/spr_virus_3/spr_virus_3.yy",},},
     {"id":{"name":"spr_virus_4","path":"sprites/spr_virus_4/spr_virus_4.yy",},},
+    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
