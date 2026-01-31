@@ -1,16 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_spawner",
+  "%Name":"obj_intro_button_exit",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_spawner",
+  "name":"obj_intro_button_exit",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/Objects/Game_screen/UI.yy",
+    "name":"Intro_screen",
+    "path":"folders/Objects/Intro_screen.yy",
   },
   "parentObjectId":null,
   "persistent":false,
