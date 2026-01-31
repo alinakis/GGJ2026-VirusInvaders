@@ -11,6 +11,7 @@
     {"name":"inst_4DA8799B","path":"rooms/rm_death/rm_death.yy",},
     {"name":"inst_5B50FFEF","path":"rooms/rm_death/rm_death.yy",},
     {"name":"inst_73208000","path":"rooms/rm_death/rm_death.yy",},
+    {"name":"inst_4535609","path":"rooms/rm_death/rm_death.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -21,6 +22,7 @@
         {"$GMRInstance":"v4","%Name":"inst_5B50FFEF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5B50FFEF","objectId":{"name":"obj_highscore","path":"objects/obj_highscore/obj_highscore.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":160.0,},
         {"$GMRInstance":"v4","%Name":"inst_1AE74F4D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1AE74F4D","objectId":{"name":"obj_death_button_back","path":"objects/obj_death_button_back/obj_death_button_back.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":288.0,},
         {"$GMRInstance":"v4","%Name":"inst_553EFA77","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_553EFA77","objectId":{"name":"obj_death_button_exit","path":"objects/obj_death_button_exit/obj_death_button_exit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":224.0,},
+        {"$GMRInstance":"v4","%Name":"inst_4535609","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4535609","objectId":{"name":"obj_music_death","path":"objects/obj_music_death/obj_music_death.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":352.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

@@ -6,6 +6,6 @@ button_y = (room_height / 2)+60+30; // middle of room.
 
 
 button_label = "Settings";
-target_room = rm_settings; // change to your room
+target_room = rm_intro; // change to your room
 
 pressed = false; // visual state
