@@ -1,2 +1,2 @@
-if (y < 160)
+if (y < 180)
     instance_destroy();
