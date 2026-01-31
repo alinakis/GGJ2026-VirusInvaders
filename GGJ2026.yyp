@@ -36,6 +36,7 @@
   },
   "name":"GGJ2026",
   "resources":[
+    {"id":{"name":"fnt_instructions","path":"fonts/fnt_instructions/fnt_instructions.yy",},},
     {"id":{"name":"fnt_intro_buttons","path":"fonts/fnt_intro_buttons/fnt_intro_buttons.yy",},},
     {"id":{"name":"fnt_stats","path":"fonts/fnt_stats/fnt_stats.yy",},},
     {"id":{"name":"fnt_title","path":"fonts/fnt_title/fnt_title.yy",},},
